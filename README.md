@@ -3,3 +3,4 @@
 Olá! em vindo ao livro de receitas:wave:
 
 - Strogonoff de frango (espaço - espaço cria um bullet)
+- Pavê
